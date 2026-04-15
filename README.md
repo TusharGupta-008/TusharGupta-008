@@ -12,24 +12,27 @@ I enjoy working with React, Node.js, and modern frontend design.
 - Strengthening backend and authentication systems
 
 ---
+## ⚡ Tech Stack
 
-## 🛠 Tech Stack
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 
-**Frontend**
-- React
-- JavaScript
-- HTML, CSS
+### ⚙️ Frontend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 
-**Backend**
-- Node.js
-- Express
+### 🛠 Backend
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=express)
 
-**Database**
-- MongoDB
+### 🗄 Database
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
 
-**Tools**
-- Git, GitHub
-- Vercel
+### 🚀 Tools
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 
 ---
 
