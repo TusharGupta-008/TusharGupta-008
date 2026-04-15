@@ -1,10 +1,26 @@
-## Hi, I'm Tushar 👋
+<h1 align="center">Hi, I'm Tushar Gupta 👋</h1>
 
-Full-stack developer focused on building responsive web apps and interactive UI experiences.  
-I enjoy working with React, Node.js, and modern frontend design.
+<p align="center">
+🚀 Full-Stack Developer • React • Node.js • UI/UX
+</p>
+
+<p align="center">
+Building responsive web apps and interactive user experiences with modern technologies.
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/tushar-gupta-91791627a/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+<a href="mailto:tushargupta.dsce@gmail.com">
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+</a>
+<a href="https://github.com/TusharGupta-008">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
+</p>
 
 ---
-
 ## 🚀 Currently Working On
 
 - Improving full-stack projects (React + Node.js)
@@ -62,6 +78,8 @@ Scroll-driven hero section with smooth animations and modern UI effects.
 
 ---
 
-## 📈 GitHub Stats
+## 🎯 Focus
 
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=TusharGupta-008&show_icons=true&theme=radical)
+- Building real-world full-stack applications  
+- Improving UI/UX and frontend performance  
+- Learning backend architecture and authentication
