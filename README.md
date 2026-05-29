@@ -34,6 +34,7 @@ Building responsive web apps and interactive user experiences with modern techno
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
 
 ### ⚙️ Frontend
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
