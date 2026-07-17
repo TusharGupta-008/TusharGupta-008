@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tushar Gupta</h1>
 
 <h3 align="center">
-Full-Stack MERN Developer | AI Enthusiast | Backend Developer
+Full-Stack Developer | Backend Engineering | AI Applications
 </h3>
 
 <p align="center">
-Building scalable full-stack applications, AI-powered products, and modern web experiences.
+Building scalable web applications with clean architecture, secure backend systems, and AI-powered experiences.
 </p>
 
 <p align="center">
