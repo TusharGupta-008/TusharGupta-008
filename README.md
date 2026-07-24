@@ -10,7 +10,7 @@ Building scalable web applications with clean architecture, secure backend syste
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/tushar-gupta-91791627a/">
+<a href="https://www.linkedin.com/in/tushar-gupta-dev/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
