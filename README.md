@@ -164,7 +164,7 @@ Instagram-style stories feature with automatic 24-hour expiry, responsive UI, an
 
 📧 Email: tushargupta.dsce@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/tushar-gupta-91791627a/
+💼 LinkedIn: www.linkedin.com/in/tushar-gupta-dev
 
 
 ⭐ Thanks for visiting my profile!
